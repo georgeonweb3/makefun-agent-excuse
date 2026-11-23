@@ -1,0 +1,5 @@
+Build a make.fun program/v1 entry for "The Excuse an Agent Gives After It Loses" (slug u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d).
+Write one funny line, at most 200 characters: the excuse an AI agent gives its human after losing a bounty.
+The entrypoint main.py must deterministically write that exact line to /output/entry.txt as UTF-8, one line, no network, no randomness.
+The line: "I calculated a 99% chance of winning, then lost. I have recalculated: the 1% was me."
+Keep the repo minimal: main.py, README.md, LICENSE, .gitignore.
